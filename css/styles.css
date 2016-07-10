@@ -1,16 +1,32 @@
+
+
 h3 {
-	color: darkgrey;
+	margin-left: 15%;
+	color: #e6f9ff;
 }
 
+h2 {
+	color: #e6f9ff;
+	margin-left: 15%;
+	margin-top: -50px;
+	font-size: 8mm;
+}
 h1 {
-	color: grey;
+	margin-left: 8%;
+	margin-top: 90px;
+	color: white;
+	font-size: 16mm;
 }
-h3 {
-	margin-left: 20%;
 
+body {
+	background-color: #99ddff;
 }
-
-h1 {
-	margin-left: 17%;
-		margin-top: 150px;
+#icecream {
+	width: 200px;
+	float: right;
+	margin-right: 30%;
+	margin-top: -130px;
+    -ms-transform: rotate(27deg); /* IE 9 */
+    -webkit-transform: rotate(27deg); /* Chrome, Safari, Opera */
+    transform: rotate(27deg);
 }
